@@ -35,7 +35,7 @@
   "files": [
     "minireset.css",
     "minireset.min.css",
-    "minireset.min.css.lit.js",
+    "minireset.css.lit.js",
     "minireset.sass"
   ]
 }
